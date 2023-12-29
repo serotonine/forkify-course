@@ -1,4 +1,4 @@
 node_modules
 dist
 .parcle-cache
-.DS_Store
+.DS_Storegit remote -v
